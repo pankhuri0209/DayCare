@@ -1,0 +1,51 @@
+ID,NAME,AGE(Months),Grade,RegistrationDate,ParentName,Address, phone, parentEmail
+1,Molly,60,2,4/11/2021,John,Montgomery ,4524760317,johndoe@gmail.com
+2,George,36,3,5/6/2021,Calvin,Juneau ,3593304722,calvin453@hotmail.com
+3,Frank,25,2,11/2/2021,Perry,Phoenix ,3811745470,mathewperry@yahoo.com
+4,Joseph,65,3,9/1/2021,Dave,Little Rock ,6.52022E+11,davejohnson@gmail.com
+5,Thomas,55,2,12/1/2021,Anthony,Sacramento ,4342910592,anthonygonsalvis@gmail.com
+6,Henry,61,3,2/12/2021,Eddie,Denver ,3126022401,eddie98@gmail.com
+7,Robert,29,3,12/2/2021,Amos,Hartford ,1023646304,amospary23@hotmail.com
+8,Edward,41,2,6/1/2021,Dennis,Dover ,6778332411,denny34@gmail.com
+9,Harry,30,3,12/8/2021,Clifford,Tallahassee ,7273033722,clifford732@yahoo.com
+10,Walter,45,2,11/10/2021,Leroy,Atlanta ,3348794169,leroy334@yahoo.com
+11,Arthur,90,3,5/6/2021,Wesley,Honolulu ,3896725560,wesleypat1@gmail.com
+12,Fred,100,2,5/4/2021,Alonzo,Boise ,5439586660,alonzorodriguez@gmail.com
+13,Albert,11,3,12/6/2021,Garfield,Springfield ,4475712617,ozzyman@yahoo.com
+14,Samuel,29,4,2/11/2021,Franklin,Indianapolis ,8009982527,franklin800@gmail.com
+15,David,10,2,1/3/2021,Emil,Des Moines ,8514425573,emilly65@yahoo.com
+16,Louis,12,3,7/9/2021,Leon,Topeka ,3507122394,leontampa@yahoo.com
+17,Joe,21,2,1/7/2021,Nathan,Frankfort ,8676749022,nathankrif@gmail.com
+18,Charlie,9,3,1/9/2021,Harold,Baton Rouge ,8049290568,daveharold@hotmail.com
+19,Clarence,8,2,8/7/2021,Matthew,Augusta ,5333707500,clarence93@gmail.com
+20,Richard,6,3,5/12/2021,Levi,Annapolis ,7029330716,levis17@hotmail.com
+21,Andrew,7,3,12/4/2021,Moses,Boston ,1.20212E+11,mosesrose@gmail.com
+22,Daniel,10,2,4/9/2021,Everett,Lansing ,2369786811,everett236@hotmail.com
+23,Ernest,12,3,9/8/2021,Lester,St. Paul ,2467958033,lester.paul@yahoo.com
+24,Will,21,2,10/7/2021,Winfield,Jackson ,7976805279,winfield87@gmail.com
+25,Jesse,65,3,11/9/2021,Adam,Jefferson City ,8499237407,adamfloyd@yahoo.com
+26,Oscar,55,2,4/10/2021,Lloyd,Helena ,5565742397,lloydconud@gmail.com
+27,Lewis,6,3,12/3/2021,Mack,Lincoln ,5794287287,mackjack23@gmail.com
+28,Peter,9,3,8/6/2021,Fredrick,Carson City ,4593865589,fredrickcid@gmail.com
+29,Benjamin,10,2,11/11/2021,Jay,Concord ,5150658195,jaypatel75@yahoo.com
+30,Ganesh,36,3,4/7/2021,Jess,Trenton ,8707031607,jessiej32@hotmail.com
+31,Willie,23,2,10/10/2021,Melvin,Santa Fe ,8569648407,melvinkelvin78@gmail.com
+32,Alfred,65,3,3/3/2021,Noah,Albany ,7748908941,noahfatehi@yahoo.com
+33,Sam,55,2,4/4/2021,Aaron,Raleigh ,1671517278,aaronjack@gmail.com
+34,Roy,61,3,12/9/2021,Alvin,Bismarck ,3947233980,alvinchip32@yahoo.com
+35,Herbert,22,2,5/7/2021,Norman,Columbus ,2755271558,normanchris@gmail.com
+36,Jacob,25,2,7/7/2021,Gilbert,Oklahoma City ,3399409314,gilbertdave@hotmail.com
+37,Tom,85,3,9/9/2021,Elijah,Salem ,5.61202E+11,elijah.tom@hotmail.com
+38,Elmer,55,2,7/11/2021,Victor,Harrisburg ,7507852045,victor32@protonmail.com
+39,Carl,61,3,11/7/2021,Gus,Providence ,5856581201,gusband@hotmail.com
+40,Lee,29,5,3/12/2021,Nelson,Columbia ,3984655148,nelsondawson@gmail.com
+41,Howard,23,2,3/10/2021,Jasper,Pierre ,3497898123,kaso.jasper@gmail.com
+42,Martin,30,3,9/3/2021,Silas,Nashville ,8.20211E+11,silas769@yahoo.com
+43,Michael,25,2,10/10/2021,Christopher,Austin ,7667022760,christophernolan@yahoo.com
+44,Bert,65,3,1/1/2021,Jake,Salt Lake City ,8561583537,jakeperalta@gmail.com
+45,Herman,23,2,8/5/2021,Mike,Montpelier ,7764056905,mike.ross@protonmail.com
+46,Jim,40,3,12/4/2021,Percy,Richmond ,3898290589,nancy.percy@yahoo.com
+47,Milton,39,1,2/11/2021,Adolph,Olympia ,1770110692,hamilton@protonmail.com
+48,Alex,30,2,5/9/2021,Maurice,Charleston ,8578489773,maurce34@gmail.com
+49,Leo,23,3,11/9/2021,Cornelius,Madison ,6019537300,madison.dorsey@yahoo.com
+50,Julius,25,2,7/4/2021,Felix,Cheyenne ,2.02148E+11,felixsean09@gmail.com
